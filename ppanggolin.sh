@@ -1,4 +1,3 @@
-# Antes era --defrag e --identity 0.8
 
 # Argumento es el fasta list
 
